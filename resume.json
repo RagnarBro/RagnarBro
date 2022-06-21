@@ -59,14 +59,14 @@
         {
             "company_name": "北京汉克时代科技有限公司",
             "department_name": "前端开发",
-            "work_time": "2019.11,2021.04",
+            "work_time": ["2019.11", "2021.04"],
             "work_desc": "1.使用 React 参与并开发了中国工商银行工作招聘系统\n2.推动并实现招聘系统聊天机器人的相关工作\n2.使用 Java 完成 gdms，内容管理系统等部分工作",
             "dataIndex": 0
         },
         {
             "company_name": "思为软件科技有限公司",
             "department_name": "前端开发",
-            "work_time": "2019.05，2019.11",
+            "work_time": ["2019.05，2019.11"],
             "work_desc": "使用Vue开发 VR 项目管理平台的版本发布消息系统，负责跟进 720vr 全景看房项目的制作，校验，交付以及公共Vue组件开发等工作",
             "dataIndex": 1
         },

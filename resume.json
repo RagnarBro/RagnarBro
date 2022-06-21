@@ -128,7 +128,7 @@
             "project_name": "G2、G2Plot",
             "project_role": "核心开发者",
             "project_time": "2019 - 至今",
-            "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
+            "project_desc": "，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
             "project_content": "AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV 系列: AntV 官网、G 渲染引擎、 G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作。"
         }
     ],

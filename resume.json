@@ -122,14 +122,14 @@
             "project_role": "前端负责人",
             "project_time": "2018.05 - 2019.05",
             "project_desc": "悦动圈用户运动年度报告，线下马拉松活动，华为荣耀手机等h5页面开发",
-            "project_content": "1. 使用css/html技术开发了悦动圈用户年度报告h5包括其中的流星动画，音乐引入等整个页面开发"
+            "project_content": "1. 使用css/html/js技术开发了悦动圈用户年度报告h5包括其中的流星动画，音乐引入等整个页面开发"
         },
         {
             "project_name": "工商银行招聘系统及聊天机器人",
             "project_role": "前端负责人",
             "project_time": "2019.11 - 2021.4",
             "project_desc": "工商银行校园招聘系统",
-            "project_content": "使用 React 参与开发了中国工商银行工作招聘系统包括移动端和pc端，自己实现了较多页面的逻辑与设计还原2.基于Ant Design Mobile 组件库,自己手动打磨实现了包含有 swiper，tab，锚等功能的公共组件"
+            "project_content": "1.使用 React 参与开发了中国工商银行工作招聘系统包括移动端和pc端，自己实现了较多页面的逻辑与设计还原2.基于Ant Design Mobile 组件库,自己手动打磨实现了包含有 swiper，tab，锚等功能的公共组件3.推动并实现招聘系统聊天机器人的相关工作"
         }
     ],
     "workList": [],

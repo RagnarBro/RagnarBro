@@ -129,7 +129,7 @@
             "project_role": "前端负责人",
             "project_time": "2019.11 - 2021.4",
             "project_desc": "工商银行校园招聘系统",
-            "project_content": "\n1.使用 React 参与开发了中国工商银行工作招聘系统包括移动端和pc端，自己实现了较多页面的逻辑与设计还原\n2.基于Ant Design Mobile 组件库,自己手动打磨实现了包含有 swiper，tab，锚等功能的公共组件3.推动并实现招聘系统聊天机器人的相关工作"
+            "project_content": "\n1.使用 React 参与开发了中国工商银行工作招聘系统包括移动端和pc端，自己实现了较多页面的逻辑与设计还原 2.基于Ant Design Mobile 组件库,自己手动打磨实现了包含有 swiper，tab，锚等功能的公共组件 3.推动并实现招聘系统聊天机器人的相关工作"
         }
     ],
     "workList": [],

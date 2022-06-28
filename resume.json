@@ -9,7 +9,7 @@
         "aboutme": "自我介绍"
     },
     "avatar": {
-        "hidden": true
+        "hidden": false
     },
     "profile": {
         "name": "陈国才",

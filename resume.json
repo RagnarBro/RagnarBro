@@ -67,7 +67,7 @@
             "company_name": "思为软件科技有限公司",
             "department_name": "前端开发",
             "work_time": ["2019.05","2019.11"],
-            "work_desc": "使用Vue开发 VR 项目管理平台的版本发布消息系统，负责跟进 720vr 全景看房项目的制作，校验，交付以及公共Vue组件开发等工作",
+            "work_desc": "使用Vue开发 VR 项目管理平台的版本发布消息系统，负责跟进 720vr 全景看房项目的制作以及公共Vue组件开发等工作",
             "dataIndex": 1
         },
         {
@@ -129,7 +129,7 @@
             "project_role": "前端负责人",
             "project_time": "2019.11 - 2021.4",
             "project_desc": "工商银行工作招聘招聘系统",
-            "project_content": "1.使用 React 参与开发了中国工商银行工作招聘系统包括移动端和pc端，自己实现了较多页面的逻辑与设计还原 2.基于Ant Design Mobile 组件库,自己手动打磨实现了包含有 swiper，tab，锚等功能的公共组件 3.推动并实现招聘系统聊天机器人的相关工作"
+            "project_content": "1.使用 React 参与开发了中国工商银行工作招聘系统包括移动端和pc端 2.基于Ant Design Mobile 组件库,自己手动打磨实现了包含有 swiper，tab，锚等功能的公共组件 3.推动并实现招聘系统聊天机器人的相关工作"
         }
     ],
     "workList": [],

@@ -85,12 +85,6 @@
             "skill_level": 89
         },
         {
-            "skill_name": "Vue / ",
-            "skill_level": 90,
-            "dataIndex": 1,
-            "skill_desc": ""
-        },
-        {
             "skill_name": "React / 前端工程化",
             "skill_desc": "",
             "skill_level": 80,

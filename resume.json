@@ -80,12 +80,12 @@
     ],
     "skillList": [
         {
-            "skill_name": "HTML 和 CSS",
+            "skill_name": "HTML/CSS/JavaScript",
             "skill_desc": "",
             "skill_level": 89
         },
         {
-            "skill_name": "Vue / JavaScript",
+            "skill_name": "Vue / ",
             "skill_level": 90,
             "dataIndex": 1,
             "skill_desc": ""
